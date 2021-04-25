@@ -3,3 +3,6 @@ to remote GitHub.com repostory
 
 
 Now our work will continue locally
+
+
+Control + S to save
