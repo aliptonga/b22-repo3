@@ -1,0 +1,2 @@
+We just published our local git repo
+to remote GitHub.com repostory
